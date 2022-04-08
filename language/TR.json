@@ -27,7 +27,7 @@
         "admin": {
             "BAN_DESC": "Gruptan kişi banlar. Yanıt verin ya da komutun yanına kişiyi etiketleyin.",
             "IM_NOT_ADMIN": "*Bu grupta admin değilim!*",
-            "BANNED": "gruptan çıkarıldı!",
+            "BANNED": "ban yedi gerizekalı!",
             "GIVE_ME_USER": "*Bana bir kullanıcı ver!*",
             "ADD_DESC": "Gruba kişi ekler.",
             "ADDED": "gruba eklendi!",
